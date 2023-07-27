@@ -1,5 +1,11 @@
 # Match Predict
-A machine learning model that can predict the outcomes of Tetr.io matches with probabilities.
+A machine learning model that can predict the outcomes of Tetr.io matches with probabilities.  
+
+Pair Plot of the original set of features.
+![image](https://github.com/J-Bungus/MatchPredict/assets/113871762/eda20508-edb3-490c-8b77-7257c9c2b6a1)
+
+Confusion Matrix for a Random Forest Model (best accuracy of ~68%)
+![Random Forest Confusion Matrix](RandomForest.png)
 
 ## TODO:
 * Test the MLP from Scikit-Learn for predictions
